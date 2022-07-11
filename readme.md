@@ -3,6 +3,10 @@
 ##### basado en node.js y express para la creacion de la api 
 ##### tambien se usaran las librerias de multer, fs-extra, cors, jsonwebtoken, bcrypt, entre otras
 
+### como usar
+descargar el repositorio y descomprimirlo
+luego abrir un terminal en la carpeta raiz del repositorio y ejecutar el comando **npm run dev**
+
 **Que podras hacer**
 - registrar usuarios
 - ingreso de los usuarios
